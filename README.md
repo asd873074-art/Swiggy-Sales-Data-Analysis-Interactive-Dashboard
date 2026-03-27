@@ -25,11 +25,10 @@ The goal of this project was to analyze Swiggy's sales operations across India t
 * **Regional Performance:** Identified top-rated cities, providing a roadmap for service expansion.
 
 ## Dashboard Preview
-![Dashboard Preview](screenshot%201.png)
-![Dashboard Preview](screenshot%202.png)
-![Dashboard Preview](screenshot%203.png)
-![Dashboard Preview](screenshot%204.png)
-
+![Dashboard View 1](Screenshot%20%281%29.png)
+![Dashboard View 2](Screenshot%20%282%29.png)
+![Dashboard View 3](Screenshot%20%283%29.png)
+![Dashboard View 4](Screenshot%20%284%29.png)
 
 ## Project Learnings
 * **Data Volume Management:** Gained experience in managing and processing large datasets (nearly 200,000 rows) without compromising Excel performance.
