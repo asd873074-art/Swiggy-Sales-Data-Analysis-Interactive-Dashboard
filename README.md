@@ -25,11 +25,10 @@ The goal of this project was to analyze Swiggy's sales operations across India t
 * **Regional Performance:** Identified top-rated cities, providing a roadmap for service expansion.
 
 ## Dashboard Preview
-![Dashboard](
-Screenshot (1).png
-Screenshot (2).png
-Screenshot (3).png
-Screenshot (4).png)
+![Dashboard Preview](screenshot%201.png)
+![Dashboard Preview](screenshot%202.png)
+![Dashboard Preview](screenshot%203.png)
+![Dashboard Preview](screenshot%204.png)
 
 
 ## Project Learnings
